@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_size">120dp</dimen>
+    <dimen name="image_view_height">130dp</dimen>
+
+    <dimen name="text_fields_padding_above_and_below_label">16dp</dimen>
+    <dimen name="text_fields_label_padding_between_label_and_input_text">8dp</dimen>
+    <dimen name="text_fields_label_padding_between_label_and_icon">16dp</dimen>
+
+    <dimen name="single_line_height">48dp</dimen>
+
+    <dimen name="material_component_text_fields_floating_label_height">72dp</dimen>
+
+
+    <dimen name="padding_test">20dp</dimen>
+
+    <dimen name="text_field_margin">8dp</dimen>
+
+
+</resources>

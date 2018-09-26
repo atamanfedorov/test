@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_text_password">Password</string>
+    <string name="edit_text_phone">Phone</string>
+    <string name="edit_text_email">Email</string>
+    <string name="button_view">VIEW</string>
+    <string name="button_send">SEND BY EMAIL</string>
+    <string name="error_email">There are no email clients installed.</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="image">&lt;Image&gt;</string>
+    <string name="spaceSymbol">&#9251;</string>
+
+    <string name="edit_text_email_error">Please, enter correct email address</string>
+    <string name="edit_text_phone_error">Please, enter correct phone number</string>
+    <string name="edit_text_password_error">Password must contain at least 6 characters and contain at least one uppercase character, one lowercase character and one number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    </resources>
